@@ -103,5 +103,4 @@
 </body>
 </html>
 
-![1](https://github.com/user-attachments/assets/74371ccc-60e7-4d3d-a08b-453d54f57155)
 
